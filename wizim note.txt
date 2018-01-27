@@ -1,0 +1,5 @@
+jupyter notebook
+
+conda info -e
+activate tensorflow
+tensorboard --logdir=summariew
